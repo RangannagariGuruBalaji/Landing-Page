@@ -1,8 +1,8 @@
-# 🚀 Landing Page
+# Landing Page
 
 A responsive and modern landing page built using **React.js** and **CSS**. The application is designed to provide a seamless user experience across desktop, tablet, and mobile devices.
 
-## 📌 Features
+##  Features
 
 - Responsive design for all screen sizes
 - Clean and modern user interface
@@ -11,14 +11,14 @@ A responsive and modern landing page built using **React.js** and **CSS**. The a
 - Optimized performance
 - Easy to customize and maintain
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - React.js
 - JavaScript (ES6+)
 - HTML5
 - CSS3
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 src/
@@ -29,7 +29,7 @@ src/
 └── styles/
 ```
 
-## ⚙️ Installation
+##  Installation
 
 1. Clone the repository:
 
@@ -61,7 +61,7 @@ The application will be available at:
 http://localhost:3000
 ```
 
-## 🏗️ Build for Production
+##  Build for Production
 
 ```bash
 npm run build
