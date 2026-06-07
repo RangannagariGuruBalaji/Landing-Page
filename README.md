@@ -67,7 +67,7 @@ http://localhost:3000
 npm run build
 ```
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 - Dark mode support
 - Advanced animations
